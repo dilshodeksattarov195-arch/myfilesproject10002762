@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routercync",
+        "uuid": 27586856,
+        "checksum": "866qj2"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
